@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Tourner';
+  src: url('./assets/Tourner.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LakesNeue';
+  src: url('./assets/LakesNeue.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'eth';
+  src: url('./assets/eth.ttf')format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Demo';
+  src: url('./assets/SwipeRaceDemo.ttf')format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+
+/* Estilizando a barra de rolagem no Chrome, Safari e Edge */
+::-webkit-scrollbar {
+  width: 12px; /* Largura da barra de rolagem */
+  
+}
+
+::-webkit-scrollbar-track {
+  background: #120704; /* Cor do fundo da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ff410d; /* Cor da barra de rolagem (laranja) */
+  border-radius: 10px; /* Bordas arredondadas */
+  border: 3px solid #120704; /* Espaço ao redor da barra de rolagem para criar efeito de espaçamento */
+}
+
+
+
+
+

@@ -1,0 +1,71 @@
+.container {
+    width: 100%;
+    height: calc(100vh - 60px);
+   background-image: url("../assets/back.svg");
+   background-size: cover;
+   font-family: "lakesNeue";
+   
+}
+
+.container h1{
+    color: aliceblue;
+    font-family:'eth' ;
+    text-align: center;
+    padding-top: 30px;
+    letter-spacing: 10px;
+    text-shadow: 5px 5px 7px rgb(186, 50, 12);
+}
+
+.cards_wrap{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+
+}
+
+.description{
+    background: linear-gradient(to right ,rgb(94, 26, 8, .7), rgba(0, 0, 0, 0.301));
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+.description p{
+    color: aliceblue;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+.description a{
+    background-color: #ba320c;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.fundo{
+    background: url("../assets/teamplate.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 400px;
+    margin-top: 35px;
+}
+
+.fundo img{
+    position: relative;
+    left: 100px;
+    top:20px;
+    width: 300px;
+}

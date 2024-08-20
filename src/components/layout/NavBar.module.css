@@ -1,0 +1,40 @@
+.navegacao{
+    position: relative;
+    z-index: 999;
+    width: 100%;
+    opacity: .7;
+    height: 60px;
+    background-color: #ba320c;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navegacao img {
+    width:60px;
+    padding: 4px;
+    display: block;
+}
+
+.navegacao ul{
+    display: flex;
+    gap:30px ;
+}
+
+.navegacao li{
+    list-style: none;
+}
+
+.navegacao a{
+    font-family: 'LakesNeue';
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.2em;
+}
+
+.navegacao a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+
