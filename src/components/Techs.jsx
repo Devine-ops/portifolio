@@ -1,5 +1,5 @@
 import styles from './Techs.module.css'
-import tecs from '../assets/tecs.png'
+import tecs from '../assets/tecs.svg'
 import { FaJs, FaNode, FaReact, FaHtml5, FaBootstrap, FaCss3Alt  } from "react-icons/fa";
 
 function Techs() {

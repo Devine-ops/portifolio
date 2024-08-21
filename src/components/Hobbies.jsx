@@ -14,10 +14,11 @@ function Hobbies() {
                 </div>
 
                 <div className={styles.wrap2}>
-                    <div className={styles.box2}></div>
                     <div className={styles.description2}>
                         <h2>Tempo de qualidade com minha noiva</h2>
                     </div>
+                    <div className={styles.box2}></div>
+
                 </div>
 
                 <div className={styles.wrap3}>
@@ -28,10 +29,11 @@ function Hobbies() {
                 </div>
 
                 <div className={styles.wrap4}>
-                    <div className={styles.box4}></div>
                     <div className={styles.description4}>
                         <h2>Planejar</h2>
                     </div>
+                    <div className={styles.box4}></div>
+
                 </div>
 
                 <div className={styles.wrap5}>
@@ -42,10 +44,11 @@ function Hobbies() {
                 </div>
 
                 <div className={styles.wrap6}>
-                    <div className={styles.box6}></div>
                     <div className={styles.description6}>
-                        <h2>Planejar</h2>
+                        <h2>Ler/Estudar/Pesquisar</h2>
                     </div>
+                    <div className={styles.box6}></div>
+
                 </div>
 
 

@@ -22,7 +22,7 @@
 .pParagrafo {
     color: #fff;
     z-index: 1;
-    font-family: LakesNeue;
+    font-family: 'LakesNeue';
     font-size: 30px;
   }
 
@@ -33,7 +33,7 @@
     font-weight: bold;
   }
 
-  /* Tornando a fonte menor em telas menores */
+  
 @media (max-width: 1020px) {
     .tituloEstilo {
       font-size: 70px;
