@@ -15,7 +15,7 @@
     font-size: 80px;
     position: relative;
     z-index: 1;
-    text-shadow: 5px 5px 20px #BD4A2A;
+    text-shadow: 5px 5px 20px #e53939;
     padding-top:30px;
 }
 
@@ -27,7 +27,7 @@
   }
 
  .sSpann {
-    color: #ba320c;
+    color: #e53939;
     background-color: #fff;
     padding: 10px;
     font-weight: bold;

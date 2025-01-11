@@ -2,9 +2,9 @@
     position: relative;
     z-index: 999;
     width: 100%;
-    opacity: .7;
+    opacity: .9;
     height: 60px;
-    background-color: #ba320c;
+    background-color: #e53939;
     display: flex;
     justify-content: space-around;
     align-items: center;
