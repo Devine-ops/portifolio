@@ -1,5 +1,5 @@
 .container{
-    background-image: url("../assets/fundo.svg") ;
+    background-image: url("../assets/1355056.png");
     display: flex;
     align-items: center;
     justify-content: center;
@@ -105,10 +105,10 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center; /* Garante centralização vertical */
-        width: 100%; /* Garante que o título use toda a largura disponível */
-        max-width: 100%; /* Evita cortes inesperados */
-        overflow: visible; /* Evita esconder partes do conteúdo */
+        justify-content: center; 
+        width: 100%; 
+        max-width: 100%; 
+        overflow: visible; 
     }
      
     .title h1{

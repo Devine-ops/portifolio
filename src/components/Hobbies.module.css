@@ -21,10 +21,12 @@
 .wrapper {
     display: flex;
     justify-content: center;
+    margin: 0 2%;
 }
 
 .wrapper2{
     margin: 0 2%;
+    width: 100%;
 }
 
 .wrap1 {
